@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resorce">
+        <file>res/cloud.jpg</file>
+    </qresource>
+</RCC>
